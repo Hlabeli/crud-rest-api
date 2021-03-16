@@ -1,0 +1,23 @@
+{
+  "name": "crud-rest-api",
+  "version": "1.0.0",
+  "description": "Rest API with Express and NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hlabeli/crud-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hlabeli/crud-rest-api/issues"
+  },
+  "homepage": "https://github.com/Hlabeli/crud-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
